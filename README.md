@@ -1,4 +1,4 @@
-Orange: Star Point     
+Orange: Start Point     
 Turquoise: End Point     
 Black: Obstacles     
 Purple: Path
